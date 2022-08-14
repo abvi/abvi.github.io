@@ -5,6 +5,8 @@ layout: default
 # Paris and Versailles, May 2002
 ### Four evenings in Paris
 
+{% include image-gallery.html folder="images/paris" %}
+
 For most of our time in Paris the weather was cloudy and rainy, but it wasn't too cold - very pleasant after two weeks of Bombay weather. Paris (and most of Europe) is at the same latitude as Canada, but with much warmer weather. As a result the days were VERY long - it was bright sunshine outside by 6, and the light lasted till 10.30 at night. These were easily the longest days I've ever experienced.
 
 Most of our first afternoon after landing was spent just getting from the airport to the hotel. The French have a reputation for inefficiency which seems to be well-deserved. It took me (Abhi) about an hour and a half after my plane landed just to collect my bags and meet Sejal. The terminal at which my plane landed didn't look that much better than the one at Bombay, but Sejal's terminal (the Air France one) seemed to be newer and better-maintained.
