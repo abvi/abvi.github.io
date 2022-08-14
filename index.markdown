@@ -6,8 +6,11 @@
 layout: default
 ---
 
-_And the end of all our exploring_\
-_Will be to arrive where we started_\
-_And know the place for the first time_
+Welcome to our travel blog! We've posted pictures and notes from some of our trips over the last couple of decades.
+
+* [Paris 2002](paris.md)
+* Europe 2006
+    * Hello
+
 
 ![Welcome picture](/images/AbhiSejalOnDiamondHeadSMALL.jpg)
