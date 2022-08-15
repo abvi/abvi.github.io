@@ -1,9 +1,26 @@
 ---
 layout: default
+
+carousels:
+  - images: 
+    - image: images/paris/Abhi-SejalatPalaceofVersailles.JPG
+    - image: images/paris/Abhi-SejaloutsidePalaceofVersailles.JPG
+    - image: images/paris/AbhiatArcDeTriomphe1.jpg
+    - image: images/paris/AbhiInvalides.JPG
+    - image: images/paris/ArcdeTriomphePainting.JPG
+    - image: images/paris/Notre-Dame1.JPG
+    - image: images/paris/Notre-Dame2.JPG
+    - image: images/paris/Notre-DameStainedGlassWindow.JPG
 ---
 
 # Paris and Versailles, May 2002
 ### Four evenings in Paris
+
+### Carousel 1
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+### Carousel 2
 
 {% include image-gallery.html folder="images/paris" %}
 
