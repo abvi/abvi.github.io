@@ -1,5 +1,8 @@
 remote_theme: pages-themes/slate@v0.2.0
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Abhi and Sejal's Travel Blog
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-toc
+
+title: Abhi and Sejal Vijayakar's Travel Blog
 description: And the end of all our exploring / Will be to arrive where we started / And know the place for the first time

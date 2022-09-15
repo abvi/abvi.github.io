@@ -8,9 +8,19 @@ layout: default
 
 Welcome to our travel blog! We've posted pictures and notes from some of our trips over the last couple of decades.
 
-* [Paris 2002](paris.md)
-* Europe 2006
-    * Hello
+### 2022
+[Switzerland and Portugal](switzerland-portugal.md)
+
+### 2006
+Europe
+* England
+* France
+* Italy
+
+### 2002
+![](images/paris/Abhi-SejalatPalaceofVersaillesTHUMBNAIL.jpg)
+
+[Paris and Versailles](paris.md)
 
 
 ![Welcome picture](/images/AbhiSejalOnDiamondHeadSMALL.jpg)

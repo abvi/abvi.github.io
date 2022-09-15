@@ -7,10 +7,18 @@ carousels:
     - image: images/paris/Abhi-SejaloutsidePalaceofVersailles.JPG
     - image: images/paris/AbhiatArcDeTriomphe1.jpg
     - image: images/paris/AbhiInvalides.JPG
+    - image: images/paris/AbhiSejalinMontmartre2.JPG
     - image: images/paris/ArcdeTriomphePainting.JPG
     - image: images/paris/Notre-Dame1.JPG
     - image: images/paris/Notre-Dame2.JPG
     - image: images/paris/Notre-DameStainedGlassWindow.JPG
+    - image: images/paris/Obelisk1.JPG
+    - image: images/paris/PortraitatPlaceduTertre.JPG
+    - image: images/paris/SejalatChamps-Elysees1.JPG
+    - image: images/paris/SejalatGrandTrianon.JPG
+    - image: images/paris/SejalatSacre-Coeur1.JPG
+    - image: images/paris/SejaloutsidePalaceofVersailles.JPG
+    - image: images/paris/Thatched-roofCottage.JPG
 ---
 
 # Paris and Versailles, May 2002
