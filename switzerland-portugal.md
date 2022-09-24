@@ -1,14 +1,5 @@
 ---
 layout: default
-
-carousels:
-  - images: 
-    - image: images/switzerland-portugal/20220706_071046~2.jpg
-    - image: images/switzerland-portugal/20220706_060341.jpg
-    - image: images/switzerland-portugal/20220706_075908.jpg
-    - image: images/switzerland-portugal/20220706_081644.jpg
-    
-
 ---
 
 # Switzerland and Portugal, July 2022
