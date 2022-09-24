@@ -1,6 +1,14 @@
 ---
 layout: default
-toc: true
+
+carousels:
+  - images: 
+    - image: images/switzerland-portugal/20220706_071046~2.jpg
+    - image: images/switzerland-portugal/20220706_060341.jpg
+    - image: images/switzerland-portugal/20220706_075908.jpg
+    - image: images/switzerland-portugal/20220706_081644.jpg
+    
+
 ---
 
 # Switzerland and Portugal, July 2022
@@ -315,3 +323,5 @@ After an evening around the Lisbon downtown core, we flew back from Lisbon to Sa
 To view any photo in full resolution, right-click and select "Open image in new tab".
 
 {% include carousel.html height="50" unit="%" duration="15" number="1" %}
+
+{% include image-gallery.html folder="/images/switzerland-portugal/" %}
