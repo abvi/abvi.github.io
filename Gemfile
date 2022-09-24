@@ -36,3 +36,8 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # add webrick to prevent Jekyll serve error
 gem "webrick"
+
+# Fixes security vulnerability (https://github.com/abvi/abvi.github.io/security/dependabot/1)
+gem "commonmarker", ">= 0.23.6"
+
+
