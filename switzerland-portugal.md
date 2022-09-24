@@ -320,8 +320,6 @@ After an evening around the Lisbon downtown core, we flew back from Lisbon to Sa
 
 ## Photo Gallery
 
-To view any photo in full resolution, right-click and select "Open image in new tab".
-
-{% include carousel.html height="50" unit="%" duration="15" number="1" %}
+Click on any photo to view it in full resolution.
 
 {% include image-gallery-modified.html folder="/images/switzerland-portugal/" %}
