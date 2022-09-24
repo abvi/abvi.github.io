@@ -324,4 +324,4 @@ To view any photo in full resolution, right-click and select "Open image in new 
 
 {% include carousel.html height="50" unit="%" duration="15" number="1" %}
 
-{% include image-gallery.html folder="/images/switzerland-portugal/" %}
+{% include image-gallery-modified.html folder="/images/switzerland-portugal/" %}
