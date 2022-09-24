@@ -12,10 +12,7 @@ Welcome to our travel blog! We've posted pictures and notes from some of our tri
 [Switzerland and Portugal](switzerland-portugal.md)
 
 ### 2006
-Europe
-* England
-* France
-* Italy
+[UK, France and Italy](uk-france-italy.md)
 
 ### 2002
 ![](images/paris/Abhi-SejalatPalaceofVersaillesTHUMBNAIL.jpg)
