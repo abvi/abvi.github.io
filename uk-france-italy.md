@@ -11,6 +11,7 @@ layout: default
 * [Dispatch 3: Paris and the French Riviera](#dispatch-3-paris-and-the-french-riviera)
 * [Dispatch 4: Nice and Venice](#dispatch-4-nice-and-venice)
 * [Dispatch 5: Venice and Florence](#dispatch-5-venice-and-florence)
+* [Dispatch 6: Florence, Siena and Rome](#dispatch-6-florence-siena-and-rome)
 
 ---
 
@@ -75,7 +76,8 @@ A couple of days back, we were in Paris for Sejal's birthday, having arrived the
 
 During the rest of our day in Paris, we visited St. Chapelle, a beautiful 13th century Gothic cathedral; climbing to the top of the Arc de Triomphe and looking at the crazy traffic patterns that the cars below make, converging on the Arc in a circle from 12 directions around it; and finally, visiting the Eiffel Tower at sunset. We had visited the last two during our previous visit but they are pretty much worth going to on every trip to Paris, I think. Even the presence of a large crowd of noisy high school kids from Spain, apparently visiting the Eiffel Tower as some sort of school trip and talking loudly every minute among themselves, could not dampen too much the experience of getting to the highest point in Paris and looking around after the lights have come on.
 
-![Arc de Triomphe](images/uk-france-italy/ArcDeTriomphe2SMALL.JPG)
+![Arc de Triomphe](images/uk-france-italy/ArcDeTriomphe1SMALL.JPG)
+<img src="images/uk-france-italy/ArcDeTriomphe2SMALL.JPG" alt="Arc de Triomphe" height="800">
 <img src="images/uk-france-italy/Abhi-SejalAtEiffelTower1SMALL.JPG" alt="At the Eiffel Tower" height="800">
 
 Yesterday we took the train down from Paris to Nice on the southern coast of France. The "TGV" ("train a grande vitesse", or super-fast train) makes the journey in about 5.5 hours, reaching a top speed of more than 300 kmph. We left early in the morning and were here in the early afternoon. The man next to us at lunch seemed to be having nothing but a bottle of wine and a cigarette - and this was in a fast food restaurant. We were definitely in France.
@@ -159,6 +161,7 @@ We noticed that the hair on top of David's head seemed a little less acutely mod
 
 We spent the rest of the day visiting the Duomo, the main church in Florence, and its neighboring bell tower with excellent view of central Florence, and then walking around the city. There are many high end shops mixed in with the tourist sights, all around the Duomo and a famous bridge known as Ponte Vecchio in the same area. It's a strange feeling to come out of an upscale department store and be face to face with a 15th century church.
 
+![Ponte Vecchio](images/uk-france-italy/PonteVecchio1SMALL.JPG)
 ![View of Florence from Giotto Tower](images/uk-france-italy/ViewOfFlorenceFromGiottoTower1SMALL.JPG)
 
 Tomorrow we visit a number of other museums here, including the Uffizi that has a large number of old Italian paintings. The courtyard of the Uffizi, which we've passed through already, has statues of a number of famous Florentines: Michelangelo, Leonardo da Vinci, Galileo Galilei, Macchiavelli, Amerigo Vespucci. There has been a lot of influence of this small town on the world.
@@ -167,7 +170,66 @@ Tomorrow we visit a number of other museums here, including the Uffizi that has 
 
 More about Florence in our next email.
 
+### Dispatch 6: Florence, Siena and Rome
 
+On our second day in Florence we visited the Uffizi (pronounced "Uffid-zee") museum on the banks of the Arno river, containing a large collection of mainly Italian paintings from about the 13th century onward. Again, because our guidebook had told us to reserve tickets for the museum in advance, we were able to walk past the hour-plus-long line outside the museum and get in relatively early. This was despite the (by now expected) lack of a queue, and the resultant chaos, at the place where audioguides for the museum were being rented. Italians in general seem to be disinclined to stand in queues - in museums or outside, people tend to simply cluster around the counter and try to get the server's attention in some way. After a couple of times when people would simply cut in from the side in queues that we were standing in, we've become better at gauging how to get our order taken quickly, and whether it involves standing in a line or not.
+
+The regular galleries in the Uffizi museum were quite good, but its real highlight was an unadvertised special exhibit tucked away in the basement on the life of Leonardo da Vinci, including original drawings and manuscripts from his work in the 16th century. We now understand what the [famous drawing](http://en.wikipedia.org/wiki/Vitruvian_Man) of the man with his arms outstretched within a square and a circle means.
+
+Florence is a very small town apart from its museums, with not much in the way of city life. When the shopping streets and main squares are filled with people on a weekday afternoon, it's a good sign that the majority of the population consists of tourists.
+
+While Florence is one of the most popular places to visit in Italy, the next day we visited a beautiful little town called Siena, about an hour and a half outside Florence, which seemed to be the kind of unaffected place that we had looked forward to seeing. The town is not on many tourists' itineraries, and it's possible to wander the backstreets - through narrow alleys, almost artistically weathered old buildings and cobblestone streets - and not see another person with a camera for a reasonable length of time. There aren't any major sights, but the whole town is a great experience to wander through. Unfortunately, we weren't there for long enough, because we had to catch the evening train to Rome.
+
+![Tuscan Landscape in Siena](images/uk-france-italy/TuscanLandscape1SMALL.JPG)
+![Il Campo, Siena](images/uk-france-italy/Abhi-SejalInIlCampo1SMALL.JPG)
+
+Rome is big city Italy. This is a real city with modern life taking place around monuments 2000 years old. Yesterday, our first day in Rome, we visited the Vatican City, to the west of the city center and technically its own country (although, for the record, Abhi couldn't locate a single car with a Vatican City license plate). Vatican City has two main sights, the Vatican museums (which contain the Sistine Chapel) and St Peter's Basilica (which is the place made famous by TV images of the pope, standing above St Peter's Square with thousands of people packed into the square to catch a glimpse of him). 
+
+![St. Peter's Basilica](images/uk-france-italy/Abhi-SejalInFrontOfStPetersBasilica1SMALL.JPG)
+
+The Vatican museum (it's actually a series of connected museums) is huge - four miles of displays of Western art, starting with Roman and Greek statues and ending around the Renaissance - but poorly organized and explained. It took us about 10 minutes to walk from the entrance of the museum to the end of the line of people waiting to get in, and the inside of the museum is proportionally crowded. You are almost swept along by the tide of people passing through each room, and the explanations of each piece of art are small and unreadable except by getting very close to it. On the whole, this was a disappointment, and we didn't the notice the Pope anywhere either. The high point of the museum visit was posting a couple of postcards from the Vatican City post office inside.
+
+![School of Athens painting in the Vatican Museum](images/uk-france-italy/SchoolofAthens2SMALL.JPG)
+<img src="images/uk-france-italy/RomanStatueInVaticanMuseum1SMALL.JPG" alt="Roman statue in Vatican Museum" height="800">
+
+The Sistine Chapel, attached to the museum, however, lived up to its reputation. This is the ceiling that contains the famous painting of God and Adam stretching out and just barely touching with the tips of their fingers. The restoration work that went into the ceiling of the chapel, incredibly, did not add any paint to the original paintings - they simply cleaned out the dirt that had collected over the centuries. It's hard to believe that the amazingly vibrant colors on the paintings are 500 years old. The paintings on the ceiling - there is a whole sequence of them, depicting the Biblical story of the creation of Man - are painted with 3D decorative elements around their edges, and if you position yourself just right, the perspective is so exact that it's possible to believe that the edges really are embossed on the surface rather than being painted on.
+
+St Peter's Basilica is the largest church in the world, and you're reminded of the fact - repeatedly - from the moment you walk in. Everything is big about it - it looks like a regular church, inflated to an enormous size. It's appropriately awe-inspiring, and contains some good pieces of art, but it seemed designed to impress with size rather than beauty.
+
+<img src="images/uk-france-italy/StPetersBasilica3SMALL.JPG" alt="St. Peter's Basilica" height="800">
+
+Our second day in Rome was today, which we'll write about in our next email. Just one more day of sightseeing and then we go back to California.
+
+### Dispatch 7: Rome
+
+This dispatch is not from Europe, but from California, where we're already feeling a kind of reverse sticker shock: prices here seem surprisingly low. After days of paying 5 euros (about $6.50) for a small glass of fruit juice all over Italy, and 2 euros for a pair of bananas on the streets of Rome, it seems strange to return to a world of free water with every restaurant meal and cheap groceries. And the restaurant server here is only too happy to get you your bill as soon as you ask for it: it seems to be a fine art form in Europe to be able to catch the eye of your waiter at any point before, during or after your meal.
+
+Here is an account of the last two days of our trip.
+
+Rome is superb. It's called the Eternal City, and it is possible to see why. In the 1st century AD, the Colosseum in central Rome was built to house 70,000 spectators watching gladiators fight wild animals from the far reaches of the Roman empire. Today, buses, cars and the famous Vespa scooters battle it out on the streets of Rome a few meters away from the ruins of the Colosseum, and the Rome metro disgorges passengers just across the street at the Colosseo metro stop. The Pantheon, a few blocks from the Colosseum, is a Roman temple that escaped destruction in later centuries by being converted to a Christian church. Its dome was the biggest in Europe till Michelangelo came along during the Renaissance 16 centuries later, and even today it stands incredibly unweathered in the middle of a busy square filled with restaurants, coffee shops and gelaterias. Modern life flows around monumental feats of engineering from 2000 years ago.
+
+![Colosseum](images/uk-france-italy/Abhi-SejalAtColosseum1SMALL.JPG)
+![Colosseum](images/uk-france-italy/Colosseum1SMALL.JPG)
+
+The Roman empire lasted 1000 years, from about 500 BC to 500 AD. At its peak, it extended from Portugal in the east to Turkey in the west, and from Britain in the north to Algeria in the south. A series of maps on the outside wall of the Roman Forum, the ruins of the center of government during Roman times, shows how the empire expanded over its lifetime, from a single city to probably the biggest empire ever created till then. 
+
+![Map of the Roman Empire](images/uk-france-italy/RomanEmpireExtents1SMALL.JPG)
+
+The Roman Forum today is not much more than groups of marble columns and fragments of buildings strewn over a medium-sized field, but a guided tour like the one we took helped interpret what we were seeing. The guide was an archeologist at the local university so she knew a fair bit more than the standard tour guide about what she was explaining. Over the centuries, less than enlightened citizens of Rome have "recycled" parts of these ancient structures to build other monuments either in the city or elsewhere, so the weather can only destroy what vandalism has not. Despite that, the parts that are remaining are impressive enough to give you a hint at what the entire structure might have been like. The Colosseum consists of a huge football-stadium-sized central pit with underground passages in which wild animals were kept, to be unleashed upon the gladiators from unexpected directions. 
+
+![Roman Forum](images/uk-france-italy/RuinsInForum2SMALL.JPG)
+
+It seemed very strange to us that people who had the engineering and managerial expertise to build and efficiently fill 70,000 people stadiums could also enjoy seeing people fight animals till one of them died. Over the years, the modern city of Rome has risen about 15 feet above the level at which these old Roman monuments were built. If you walk around the Pantheon, the street is at the same level as its entrance in the front, but rises to quite a height above its foundation around the back. The Pantheon was very impressive as well, its ceiling huge and perfectly dome shaped. We've seen Gothic arches (from 13th century chapels) where perfect domes could not be created because the engineers didn't know how to support the weight of the dome - we can only assume that since the Romans did know this technology, it must have been lost during the Dark Ages that followed the fall of the Roman empire and rediscovered in Europe during the Renaissance. The Colosseum is lit beautifully at night.
+
+<img src="images/uk-france-italy/Pantheon2SMALL.JPG" alt="Pantheon" height="800">
+
+The Colosseum, the Roman Forum and the Pantheon are all located within a few minutes' walk of each other in the center of Rome. On the last day of our trip, we traveled to a palace cum art gallery on the outskirts of the city called the Borghese Gallery. The 17th century founder of the gallery was a nephew of the Pope appointed to the powerful title of Cardinal Nepote (the word from which we get the English "nepotism"). Because of his influential position, he was able to amass a large collection of art from both the Renaissance and Roman periods, and they're displayed in his lavish villa within a large Central Park-like garden. Many of the pieces in the collection are masterpieces. In the fashion of the time, broken Roman statues were completed by having contemporary sculptors add pieces to them, so there is an example of a Roman-era statue of a horse with a 17th century figure of a human rider on it. Today, the pieces would be preserved as they were found. We found the gallery quite worthwhile. On our last evening we spent our time walking through the streets of the city and trying to avoid getting run over by the very indisciplined traffic. The roundabouts in Rome are particularly dangerous places to cross the street.
+
+(Sejal adds: We were also shocked to learn that the Burger King in Rome does not serve veggie burgers!)
+
+The next day we boarded a flight for California. In the in-flight magazine was a list of the countries with the most number of billionaires, taken from the recent Forbes magazine survey. The US was No.1 with 345 billionaires (India was No. 9 with 19 billionaires). Italy did not figure on the list. It seemed somewhat fitting that after seeing places where so much wealth creation has happened in the past, we were returning to a place that seems pretty good at it at present.
+
+Hope you've enjoyed reading about our trip through Europe. We had a fantastic time. Hopefully we will go back someday to visit the places we couldn't get to on this trip!
 
 ## Photo Gallery
 
