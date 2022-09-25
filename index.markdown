@@ -16,6 +16,7 @@ Welcome to our travel blog! We've posted pictures and notes from some of our tri
 
 ### 2006
 {% include clickable-thumbnail.html file="/images/uk-france-italy/Abhi-SejalAtColosseum1SMALL.JPG" title="UK, France and Italy 2006" dest="uk-france-italy.html" %}
+
 [UK, France and Italy](uk-france-italy.md) _(includes travelogue)_
 
 ### 2002
