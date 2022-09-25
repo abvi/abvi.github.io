@@ -9,6 +9,8 @@ layout: default
 Welcome to our travel blog! We've posted pictures and notes from some of our trips over the last couple of decades.
 
 ### 2022
+{% include clickable-thumbnail.html file="/images/switzerland-portugal/20220706_075908.jpg" title="Switzerland and Portugal 2022" dest="switzerland-portugal.html" %}
+
 [Switzerland and Portugal](switzerland-portugal.md) _(includes travelogue)_
 
 ### 2021
@@ -20,6 +22,9 @@ Welcome to our travel blog! We've posted pictures and notes from some of our tri
 [UK, France and Italy](uk-france-italy.md) _(includes travelogue)_
 
 ### 2002
+
+{% include clickable-thumbnail.html file="/images/paris/Notre-Dame2.JPG" title="Paris 2006" dest="paris.html" %}
+
 [Paris and Versailles](paris.md)
 
 ![Welcome picture](/images/AbhiSejalOnDiamondHeadSMALL.jpg)
