@@ -14,6 +14,8 @@ Welcome to our travel blog! We've posted pictures and notes from some of our tri
 [Switzerland and Portugal](switzerland-portugal.md) _(includes travelogue)_
 
 ### 2021
+{% include clickable-thumbnail.html file="/images/agra/IMG_0684.jpg" title="Agra 2021" dest="agra.html" %}
+
 [Agra](agra.md)
 
 ### 2006
@@ -25,6 +27,6 @@ Welcome to our travel blog! We've posted pictures and notes from some of our tri
 
 {% include clickable-thumbnail.html file="/images/paris/Notre-Dame2.JPG" title="Paris 2006" dest="paris.html" %}
 
-[Paris and Versailles](paris.md)
+[Paris and Versailles](paris.md) _(includes travelogue)_
 
 ![Welcome picture](/images/AbhiSejalOnDiamondHeadSMALL.jpg)
