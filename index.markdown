@@ -14,7 +14,7 @@ Welcome to our travel blog! We've posted pictures and notes from some of our tri
 [Switzerland and Portugal](switzerland-portugal.md) _(includes travelogue)_
 
 ### 2021
-{% include clickable-thumbnail.html file="/images/agra/IMG_0684.jpg" title="Agra 2021" dest="agra.html" %}
+{% include clickable-thumbnail.html file="/images/agra/20211228_101351.jpg" title="Agra 2021" dest="agra.html" %}
 
 [Agra](agra.md)
 

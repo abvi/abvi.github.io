@@ -70,4 +70,4 @@ Sejal concludes: The next day it was back to the airport and a long flight back 
 
 Click on any photo to view it in full resolution.
 
-{% include image-gallery-modified.html folder="/images/uk-france-italy/" %}
+{% include image-gallery-modified.html folder="/images/paris/" %}
